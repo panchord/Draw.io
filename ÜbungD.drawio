@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T14:08:02.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="_O3prYG4wu-FEIl9b5TR" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T14:59:50.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="hwtGGpFEekE37FjHC9fh" version="24.6.4" type="github">
   <diagram name="Seite-1" id="iCLKomOz4KWrpJtsv0pD">
-    <mxGraphModel dx="932" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,10 +104,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pcoAX4RgRXmFSpvK8-f_-33" value="nimmt eine" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="910" width="80" height="80" as="geometry" />
+          <mxGeometry x="374" y="920" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pcoAX4RgRXmFSpvK8-f_-36" value="Beförderungskosten" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pcoAX4RgRXmFSpvK8-f_-38" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="314" y="860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pcoAX4RgRXmFSpvK8-f_-39" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pcoAX4RgRXmFSpvK8-f_-41" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pcoAX4RgRXmFSpvK8-f_-42" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="394" y="1000" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
