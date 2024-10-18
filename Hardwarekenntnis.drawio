@@ -58,9 +58,6 @@
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-7" value="andere" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CC6600;" vertex="1" parent="1">
           <mxGeometry x="330" y="657.5" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="Xx2GBMWKzC-lwZOI1nZM-8" value="get (user_id course_id)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="10" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-9" value="Aufbau eines PCs" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="360" y="50" width="120" height="80" as="geometry" />
         </mxCell>
