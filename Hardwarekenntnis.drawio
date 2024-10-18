@@ -101,7 +101,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-21" value="andere Themen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="795" y="584" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xx2GBMWKzC-lwZOI1nZM-23" target="Xx2GBMWKzC-lwZOI1nZM-24">
           <mxGeometry relative="1" as="geometry" />
@@ -110,28 +110,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-23" value="Grundlagen Elektrotechnik" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="815" y="690" width="100" height="60" as="geometry" />
+          <mxGeometry x="750" y="670" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-24" value="Energiekosten berechnen" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="770" y="760" width="100" height="60" as="geometry" />
+          <mxGeometry x="695" y="750" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-25" value="Energiebedarf berechnen" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="870" y="760" width="100" height="60" as="geometry" />
+          <mxGeometry x="815" y="750" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-29" value="Zertifikate und Kennzeichnungen" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="935" y="699" width="110" height="61" as="geometry" />
+          <mxGeometry x="880" y="675" width="110" height="61" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-31" value="Green IT" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CC6600;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="690" width="100" height="65" as="geometry" />
+          <mxGeometry x="1020" y="717" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-113" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xx2GBMWKzC-lwZOI1nZM-32" target="Xx2GBMWKzC-lwZOI1nZM-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-32" value="Nachhaltigkeit" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="600" width="100" height="70" as="geometry" />
+          <mxGeometry x="985" y="630" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-34" value="Arbeits- und Gesundheitsschutz" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CC6600;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="500" width="120" height="70" as="geometry" />
+          <mxGeometry x="1020" y="541.5" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xx2GBMWKzC-lwZOI1nZM-39" target="Xx2GBMWKzC-lwZOI1nZM-2">
           <mxGeometry relative="1" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-40" value="Kundenkommunikation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="570" width="145" height="65" as="geometry" />
+          <mxGeometry x="480" y="524" width="145" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xx2GBMWKzC-lwZOI1nZM-41" target="Xx2GBMWKzC-lwZOI1nZM-46">
           <mxGeometry relative="1" as="geometry" />
@@ -206,22 +206,22 @@
           <mxGeometry x="815" y="392.5" width="145" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-52" value="Pitch vorbereiten" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CC6600;" vertex="1" parent="1">
-          <mxGeometry x="370" y="652" width="100" height="65" as="geometry" />
+          <mxGeometry x="390" y="610" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-112" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xx2GBMWKzC-lwZOI1nZM-53" target="Xx2GBMWKzC-lwZOI1nZM-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-53" value="Gesprächsrahmen" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CC6600;" vertex="1" parent="1">
-          <mxGeometry x="490" y="740" width="100" height="65" as="geometry" />
+          <mxGeometry x="485" y="665" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-54" value="Schulz von nicht schon wieder" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="350" y="760" width="100" height="60" as="geometry" />
+          <mxGeometry x="350" y="690" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-64" value="Kundengespräch dokumentieren" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="615" y="730" width="100" height="65" as="geometry" />
+          <mxGeometry x="570" y="717" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-65" value="Customer meeting" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#CC6600;" vertex="1" parent="1">
-          <mxGeometry x="705" y="652" width="100" height="65" as="geometry" />
+          <mxGeometry x="635" y="610" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Xx2GBMWKzC-lwZOI1nZM-67" value="Angebote erstellen" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="740" y="293" width="110" height="65" as="geometry" />
